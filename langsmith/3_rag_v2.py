@@ -16,9 +16,9 @@ from langchain_core.runnables import RunnableParallel, RunnablePassthrough, Runn
 from langchain_core.output_parsers import StrOutputParser
 
 # --- LangSmith env (make sure these are set) ---
-# LANGCHAIN_TRACING_V2=true
+# LANGCHAIN_TRACING_V2=
 # LANGCHAIN_API_KEY=...
-# LANGCHAIN_PROJECT=pdf_rag_demo
+# LANGCHAIN_PROJECT=
 
 load_dotenv()
 
