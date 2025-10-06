@@ -1,0 +1,16 @@
+langchain-openai
+python-dotenv
+langchain
+langchain-community
+langchain-anthropic
+langchain-google-genai
+langchain-google-firestore
+firestore
+chromadb
+tiktoken
+sentence-transformers
+bs4
+firecrawl-py
+langchainhub
+wikipedia
+tavily-python
